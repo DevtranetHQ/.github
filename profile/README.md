@@ -32,7 +32,7 @@ Jakub worked as a Senior engineer at Google and Roblox, building software for mi
 
 Jakub <a href="https://twitter.com/Dphenomenal_101/status/1637740402445828096" rel="nofollow">left Google </a> to join Devtranet, he is the original creator of Phantom Forces which now has 1 billion views and 8k real-time players daily. At 18, he was accepted to MIT, Columbia, and other Ivy Leagues at the same time he got offers from Google and Dell.
 
-When I was 17, I organized < a href="https://codetivate.devtranet.tech" rel="nofollow">Codetivate</a>, one of the world's largest hackathons, which hosted over 1,700 developers from 70+ countries, after raising over half a million dollars in monetary and in-kind support from thirty companies, Intel's first maker researcher, two Forbes 30 under 30, and a Thiel Fellow whose maker community is backed by the founder of GitHub and Elon Musk. 
+When I was 17, I organized < a href="https://codetivate.devtranet.tech" Codetivate</a>, one of the world's largest hackathons, which hosted over 1,700 developers from 70+ countries, after raising over half a million dollars in monetary and in-kind support from thirty companies, Intel's first maker researcher, two Forbes 30 under 30, and a Thiel Fellow whose maker community is backed by the founder of GitHub and Elon Musk. 
 
 In less than a year, I grew <a href="https://genztechies.com" rel="nofollow">GenZtechies </a> into Africa’s largest network for Gen-Zs in tech shortly after founding The Dynamics to empower underprivileged makers and hackers around the world, since then it has reached over half a million hackers.
 
