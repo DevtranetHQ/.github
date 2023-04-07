@@ -4,7 +4,7 @@
 
 The tools developers and people in tech need to build careers and connections are heavily fragmented, they combine at least five disjointed tools to do so, and we're making it easier than ever! We solve this problem and also help enterprises cut costs, save on headcount, and move faster across DevRel & technical recruiting.
 
-We decided to build Devtranet for millions of people like us, Designers connect on Dribbble and Behance while developers browse through StackOverflow to find solutions to coding problems. With chatGPT and GitHub Copilot becoming smarter day by day, it's high time for developers and people in tech to call a place home, and we want _*Devtranet*_ to be that place. Imagine being stuck in a chat window or code editor for days without any connection with like-minded people 💀
+We decided to build Devtranet for millions of people like us. Designers connect on Dribbble and Behance while developers browse through StackOverflow to find solutions to coding problems. With chatGPT and GitHub Copilot becoming smarter day by day, it's high time for developers and people in tech to call a place home, and we want _*Devtranet*_ to be that place. Imagine being stuck in a chat window or code editor for days without any connection with like-minded people 💀
 
 **It's 2023, but as a Developer:**
 
