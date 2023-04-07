@@ -38,8 +38,8 @@ In less than a year, I grew <a href="https://genztechies.com" rel="nofollow">Gen
 
 My recent work is the Gen Z HackFest 2022 which hosted 2,500+ developers and <a href="https://twitter.com/hashtag/GenZHackfest2022?src=hashtag_click" rel="nofollow">reached over a million </a> individuals from Africa and beyond with support from developer-centric companies like Filecoin. 
 
-## Some final words 
+## Join us and build the home for developers and people in tech 👨‍💻🚀
 
 We know the tech community, and we’re more than excited to spend the next 15-20 years connecting people in tech through Devtranet. We can build whatever we dream of with code, turn users into communities, and communities into a network with our third co-founder, **YOU**, yes, _*you*_ contributing to this codebase! 
 
-## Join us and build the home for developers and people in tech 👨‍💻🚀
+
