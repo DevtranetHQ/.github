@@ -2,13 +2,15 @@
 
 ![default](https://user-images.githubusercontent.com/90291337/229528959-7a0a8faf-a151-44be-b40b-39ac21dd3900.png)
 
-The tools developers and people in tech need to build careers and connections are heavily fragmented, they combine at least five disjointed tools to do so, and we're making it easier than ever! We solve this problem and help enterprises cut costs, save on headcount, and move faster across DevRel & technical recruiting with the power of AI.
+We're building a home for developers and people in tech. Today, millions of people like us spend hours every day switching between different tools which results in a fragmented experience and lost productivity. Building a career for an extremely challenging job shouldn't be that hard — we're making it easier than ever!
 
-We decided to build Devtranet for millions of people like us. Designers connect on Dribbble and Behance while developers browse through StackOverflow to find solutions to coding problems. With chatGPT and GitHub Copilot becoming smarter day by day, it's high time for developers and people in tech to call a place home, and we want _*Devtranet*_ to be that place. Imagine being stuck in a chat window or code editor for days without any connection with like-minded people 💀
+There are plenty of developer communities and tools, but they are too focused on specific problems: Hashnode is a great modern blogging platform, StackOverflow is where we go to find help (before ChatGPT 😂). Everyone wants to become a 10x developer but so many things are getting in the way, it's high time for developers and people in tech to call a place home, and we want _*Devtranet*_ to be that place. 
+
+Devtranet gives developers a community and tools to connect, build, and discover opportunities. 
 
 ## 👨‍💻 It's 2023, but as a Developer:
 
-- You need a LinkedIn account for networking or your job search, and you can't escape recruiters spam.
+- You need a LinkedIn account for networking or your job search, and you can't escape recruiter's spam.
 
 - To showcase all the cool projects you've shipped, you need to code a portfolio from scratch and pay for a domain name plus web hosting. Something people spend less than five minutes taking a look at except if your UI designer friend helps with a good template. 
 
