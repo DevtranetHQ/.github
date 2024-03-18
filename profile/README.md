@@ -1,14 +1,14 @@
 ## 👋 Hey, welcome to Devtranet 
 
-![default](https://user-images.githubusercontent.com/90291337/229528959-7a0a8faf-a151-44be-b40b-39ac21dd3900.png)
+![default](https://raw.githubusercontent.com/DevtranetHQ/devtranet/dev-test/public/favicons/default.png?token=GHSAT0AAAAAACDCAMPA6HOHJFARXY4XIQSEZPX3UIQ)
 
-We're building a home for developers and people in tech. Today, millions of people like us spend hours every day switching between different tools which results in a fragmented experience and lost productivity. Building a career for an extremely challenging job shouldn't be that hard — we're making it easier than ever!
+We're building a new place for developers to connect, share projects, blog, and find collaborators. Today, millions of people like us spend hours every day switching between different tools which results in a fragmented experience and lost productivity. Building a career for an extremely challenging job shouldn't be that hard — we're making it easier than ever!
 
 There are plenty of developer communities and tools, but they are too focused on specific problems: Hashnode is a great modern blogging platform, StackOverflow is where we go to find help (before ChatGPT 😂). Everyone wants to become a 10x developer but so many things are getting in the way, it's high time for developers and people in tech to call a place home, and we want _*Devtranet*_ to be that place. 
 
 Devtranet gives developers a community and tools to connect, build, and discover opportunities. 
 
-## 👨‍💻 It's 2023, but as a Developer:
+## 👨‍💻 It's 2024, but as a Developer:
 
 - You need a LinkedIn account for networking or your job search, and you can't escape recruiter's spam.
 
@@ -27,5 +27,3 @@ We're changing all this with Devtranet, our grand vision is to become the home f
 ## Join us and build the home for developers and people in tech 👨‍💻🚀
 
 We know the tech community, and we’re more than excited to spend the next 15-20 years connecting people in tech through Devtranet. We can build whatever we dream of with code, turn users into communities, and communities into a network with our third co-founder, **YOU**, yes, _*you*_ contributing to this codebase! 
-
-
