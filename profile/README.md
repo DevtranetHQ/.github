@@ -1,6 +1,6 @@
 ## 👋 Hey, welcome to Devtranet 
 
-![default](https://raw.githubusercontent.com/DevtranetHQ/devtranet/dev-test/public/favicons/default.png?token=GHSAT0AAAAAACDCAMPA6HOHJFARXY4XIQSEZPX3UIQ)
+![default](https://github.com/DevtranetHQ/.github/assets/90291337/4c723aae-76cc-49c6-9956-eea3b0e10f55)
 
 We're building a new place for developers to connect, share projects, blog, and find collaborators. Today, millions of people like us spend hours every day switching between different tools which results in a fragmented experience and lost productivity. Building a career for an extremely challenging job shouldn't be that hard — we're making it easier than ever!
 
